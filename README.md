@@ -8,9 +8,11 @@ A set off simple showcase programs written in **Cairo Lang**.
 * Hello
 * Simple Polynomial
 * Array Summation
-* Ownable
 * Simple AMM
-* Starknet contract (*)
+* Starknet 
+    * Ownable
+    * Balance
+
 
 # Compile and run instructions
 ```
