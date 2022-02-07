@@ -8,6 +8,7 @@ A set off simple showcase programs written in **Cairo Lang**.
 * Hello
 * Simple Polynomial
 * Array Summation
+* Power Calculation
 * Simple AMM
 * Starknet 
     * Ownable
